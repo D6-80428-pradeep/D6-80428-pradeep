@@ -2,7 +2,7 @@
 
 
 
-Hi I'm Pradeep Singh and Potential Learner (^_^)
+Hi 🤝 I'm Pradeep Singh and Potential Learner (^_^)
 ==============================
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=D6-80428-pradeep&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <div>
