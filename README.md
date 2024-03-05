@@ -1,5 +1,5 @@
 ![github-header-image](https://github.com/D6-80428-pradeep/D6-80428-pradeep/assets/125987234/b8aac9fd-a85e-400f-ad7e-5447646be1bd)
-Hi 🤝 I'm Pradeep Singh, a Potential Learner (^_^)
+Hi 🤝 I'm Pradeep Singh, A Potential Learner (^_^)
 ==============================
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=D6-80428-pradeep&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <div>
