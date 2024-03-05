@@ -45,6 +45,11 @@
 <br></br>
 <br></br>
 <br></br>
+<br></br>
+<h2 align="left">Support</h2>
+<p align="left">If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
+
 <P>
   <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
