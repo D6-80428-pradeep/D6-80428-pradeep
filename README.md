@@ -18,7 +18,7 @@ Hi 🤝 I'm Pradeep Singh and Potential Learner (^_^)
 ### Socials
 <div align="left">
     <a href="https://leetcode.com/DeepThinking44" target="_blank" rel="noreferrer"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="36" height="36" alt="Leetcode" /></a>
-    <a href="https://auth.geeksforgeeks.org/user/pradeepsinglt9p" target="_blank" rel="noreferrer"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20210702175749/20210702175652.gif" width="36" height="36" alt="C" /></a>
+    <a href="https://auth.geeksforgeeks.org/user/pradeepsinglt9p" target="_blank" rel="noreferrer"><img src="https://yt3.ggpht.com/a/AGF-l7_vzP4YJMztc_g-lfWsHDMq6Y4wuEisk-oqMg=s900-c-k-c0xffffffff-no-rj-mo" width="36" height="36" alt="C" /></a>
     <a href="https://www.github.com/D6-80428-pradeep" target="_blank" rel="noreferrer"> 
         <picture> 
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
