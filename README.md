@@ -19,7 +19,7 @@
 <div align="left">
     <a href="https://leetcode.com/DeepThinking44" target="_blank" rel="noreferrer"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="36" height="36" alt="Leetcode" /></a>
     <a href="https://auth.geeksforgeeks.org/user/pradeepsinglt9p" target="_blank" rel="noreferrer"><img src="https://yt3.ggpht.com/a/AGF-l7_vzP4YJMztc_g-lfWsHDMq6Y4wuEisk-oqMg=s900-c-k-c0xffffffff-no-rj-mo" width="36" height="36" alt="C" /></a>
-    <a href="https://www.github.com/D6-80428-pradeep" target="_blank" rel="noreferrer"> 
+  <a href="https://www.github.com/D6-80428-pradeep" target="_blank" rel="noreferrer"> 
         <picture> 
             <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
@@ -42,7 +42,16 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d6-80428-pradeep&show_icons=true&locale=en&layout=compact" alt="d6-80428-pradeep" /></p>
+<br></br>
+<br></br>
+<br></br>
+<P>
+  <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+</P>
 
 
 
