@@ -4,6 +4,12 @@
 Hi 👋 I'm Pradeep Singh
 ==============================
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=D6-80428-pradeep&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+<div>
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=D6-80428-pradeep&count_private=true&show_icons=true&theme=react" /> 
+    <img width="425" src="https://streak-stats.demolab.com/?user=D6-80428-pradeep&theme=react" />
+</div>
+
+
 
 
 
@@ -27,7 +33,7 @@ href="https://auth.geeksforgeeks.org/user/pradeepsinglt9p" target="_blank" rel="
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d6-80428-pradeep&show_icons=true&locale=en&layout=compact" alt="d6-80428-pradeep" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=d6-80428-pradeep&show_icons=true&locale=en" alt="d6-80428-pradeep" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=d6-80428-pradeep&" alt="d6-80428-pradeep" /></p>
+
+
 
