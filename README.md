@@ -1,6 +1,9 @@
 ![github-header-image](https://github.com/D6-80428-pradeep/D6-80428-pradeep/assets/125987234/b8aac9fd-a85e-400f-ad7e-5447646be1bd)
-Hi 🤝 I'm Pradeep Singh, A Potential Learner (^_^)
-==============================
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Embed+code&weight=1000&pause=1000&color=0013F7&random=false&width=750&lines=Hi+There!+I'm+PRADEEP+SINGH,+A+Potential+Learner+(^_^)" alt="Typing SVG">
+  </a>
+</p>
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=D6-80428-pradeep&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <div>
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=D6-80428-pradeep&count_private=true&show_icons=true&theme=react" /> 
