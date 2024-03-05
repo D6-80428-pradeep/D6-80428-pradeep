@@ -21,15 +21,30 @@ Hi 👋 I'm Pradeep Singh
 
 
 ### Socials
-<p align="left">
-<a href="https://leetcode.com/DeepThinking44" target="_blank" rel="noreferrer"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="36" height="36" alt="Leetcode" /></a><a
-href="https://auth.geeksforgeeks.org/user/pradeepsinglt9p" target="_blank" rel="noreferrer"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20210702175749/20210702175652.gif" width="36" height="36" alt="C" /></a><a                                                                                                                                                                                                 
-</p>
+<div align="left">
+    <a href="https://leetcode.com/DeepThinking44" target="_blank" rel="noreferrer"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="36" height="36" alt="Leetcode" /></a>
+    <a href="https://auth.geeksforgeeks.org/user/pradeepsinglt9p" target="_blank" rel="noreferrer"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20210702175749/20210702175652.gif" width="36" height="36" alt="C" /></a>
+    <a href="https://www.github.com/D6-80428-pradeep" target="_blank" rel="noreferrer"> 
+        <picture> 
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
+        </picture> 
+    </a> 
+    <a href="https://www.linkedin.com/in/pradeep-singh-96983b196/" target="_blank" rel="noreferrer"> 
+        <picture> 
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
+        </picture> 
+    </a>
+</div>
 
-<p align="left"> <a href="https://www.github.com/D6-80428-pradeep" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/pradeep-singh-96983b196/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=d6-80428-pradeep&label=Profile%20views&color=0e75b6&style=flat" alt="d6-80428-pradeep" /> </p>
 <p align="left">
-</p>
+</p> 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=d6-80428-pradeep&label=Profile%20views&color=0e75b6&style=flat" alt="d6-80428-pradeep" /> </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=d6-80428-pradeep&show_icons=true&locale=en&layout=compact" alt="d6-80428-pradeep" /></p>
 
