@@ -8,7 +8,7 @@
 
 
 <!--About Me -->
-<h1>About me</h1>
+<h1>About me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px; height=25px></h1>
 <ul>
   <li>I am interested in web-development</li>
   <li>I also do competitive programming & DSA.</li>
@@ -41,7 +41,7 @@
 </p> 
 
 
-<h1>GitHub Statistics <img src = "https://p1.hiclipart.com/preview/350/873/122/statistics-icon-growth-icon-economy-icon-line-symbol-png-clipart.jpg" width = 32px; height=25px> </h1>
+<h1>GitHub Statistics <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px; height=25px> </h1>
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=D6-80428-pradeep&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <div>
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=D6-80428-pradeep&count_private=true&show_icons=true&theme=react" /> 
@@ -62,7 +62,7 @@
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d6-80428-pradeep&layout=compact&theme=radical&show_icons=true" />
 
 
-<h2 align="left">Support</h2>
+<h2 align="left">Support <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px; height=25px></h2>
 <p align="left">If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
 
