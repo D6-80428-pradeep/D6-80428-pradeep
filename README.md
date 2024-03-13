@@ -1,11 +1,9 @@
-
 ![github-header-image](https://raw.githubusercontent.com/0xayushM/0xayushM/main/src/header_.png)
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Embed+code&weight=1000&pause=1000&color=0013F7&random=false&width=750&lines=Hi+There!+I'm+PRADEEP+SINGH,+A+Potential+Learner+(^_^)" alt="Typing SVG">
   </a>
 </p>
-
 
 <!--About Me -->
 <h1>About me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px; height=25px></h1>
