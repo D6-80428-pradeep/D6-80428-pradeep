@@ -65,7 +65,7 @@
   
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=d6-80428-pradeep&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=d6-80428-pradeep&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=dark_dimmed"/>
   </a>
 </p> 
 <be>  
