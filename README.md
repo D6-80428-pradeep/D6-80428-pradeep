@@ -41,13 +41,25 @@
 </p> 
 
 
-<h1>GitHub Statistics <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px; height=25px> </h1>
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=D6-80428-pradeep&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-<div>
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=D6-80428-pradeep&count_private=true&show_icons=true&theme=react" /> 
-    <img width="425" src="https://streak-stats.demolab.com/?user=D6-80428-pradeep&theme=react" />
-</div>
+<div align="center">
+<h1 align="left" class="section-heading"> Github Stats <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px; height=25px></h1>
 
+ <table align="center" width="100%" height="100%" >
+    <tr>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d6-80428-pradeep&theme=github_dark" alt="Zane's GitHub Stats"/></td>   
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=d6-80428-pradeep&theme=merko" alt="Zane's Contribution Streak"/></td>
+    </tr>
+ </table>
+
+ <table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=d6-80428-pradeep&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=d6-80428-pradeep&theme=github_dark&utcOffset=10" alt="Zane's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d6-80428-pradeep&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=d6-80428-pradeep&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+    </tr>
+ </table>
+</div>
 
 
 <h1> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px; height=25px> </h1>
@@ -56,10 +68,13 @@
   
 
 <!--
-<h1>views & most used language</h1>
+<h1>views </h1>
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d6-80428-pradeep&label=Profile%20views&color=0e75b6&style=flat" alt="d6-80428-pradeep" /> </p>
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d6-80428-pradeep&layout=compact&theme=radical&show_icons=true" />
+
+
+
+
 
 ### :zap: GitHub Trophies 🏆  
   
@@ -84,7 +99,6 @@
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 </P>
-
 
 
 
