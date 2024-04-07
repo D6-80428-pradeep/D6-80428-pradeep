@@ -1,9 +1,9 @@
-![github-header-image](https://raw.githubusercontent.com/0xayushM/0xayushM/main/src/header_.png)<p align="right"> <img src="https://komarev.com/ghpvc/?username=d6-80428-pradeep&label=Profile%20views&color=0e75b6&style=flat" alt="d6-80428-pradeep" /> </p>
+![github-header-image](https://raw.githubusercontent.com/0xayushM/0xayushM/main/src/header_.png)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Embed+code&weight=1000&pause=1000&color=0013F7&random=false&width=750&lines=Hi+There!+I'm+PRADEEP+SINGH,+A+Potential+Learner+(^_^)" alt="Typing SVG">
-  </a>
+   <img src="https://komarev.com/ghpvc/?username=d6-80428-pradeep&label=Profile%20views&color=0e75b6&style=flat" alt="d6-80428-pradeep"></a>
 </p>
 
 <!--About Me -->
