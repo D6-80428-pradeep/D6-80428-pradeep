@@ -1,4 +1,4 @@
- <a target="_blank" rel="noreferrer"><img src="https://wallpaperaccess.com/full/1338396.png" width="100%" height="50%" alt="" /></a>
+![github-header-image](https://raw.githubusercontent.com/0xayushM/0xayushM/main/src/header_.png)
 
 
 <p align="center">
