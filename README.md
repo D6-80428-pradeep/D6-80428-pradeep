@@ -1,6 +1,4 @@
 ![github-header-image](https://raw.githubusercontent.com/0xayushM/0xayushM/main/src/header_.png)
-
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Embed+code&weight=1000&pause=1000&color=0013F7&random=false&width=750&lines=Hi+There!+I'm+PRADEEP+SINGH,+A+Potential+Learner+(^_^)" alt="Typing SVG">
