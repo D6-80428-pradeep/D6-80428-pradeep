@@ -1,5 +1,5 @@
-![github-header-image](https://media.licdn.com/dms/image/D5622AQEesY8IcBF4ug/feedshare-shrink_800/0/1714243188418?e=1717027200&v=beta&t=Zg1Hju4ctf0w2JymGu7VJ5k2qgZGVjAp5FVNIm_NUaw)
-<p align="left">
+![github-header-image](https://wallpaperaccess.com/full/2484091.jpg)
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Embed+code&weight=1000&pause=1000&color=0013F7&random=false&width=750&lines=Hi+There!+I'm+PRADEEP+SINGH,+A+Potential+Learner+(^_^)" alt="Typing SVG">
   </a>
