@@ -1,4 +1,4 @@
-![github-header-image](https://wallpaperaccess.com/full/2484091.jpg)
+![Screenshot 2024-04-29 181849](https://github.com/D6-80428-pradeep/D6-80428-pradeep/assets/125987234/5dc45b20-9a0c-4e4d-90ac-9b5811d50783)
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Embed+code&weight=1000&pause=1000&color=0013F7&random=false&width=750&lines=Hi+There!+I'm+PRADEEP+SINGH,+A+Potential+Learner+(^_^)" alt="Typing SVG">
