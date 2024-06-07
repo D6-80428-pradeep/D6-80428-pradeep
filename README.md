@@ -86,19 +86,7 @@
 <p align="left">If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
 -->
-<P>
-  <h1 align='center'><i>Stay awesome!</i></h1>
-<br>
-<div align="center">
-<img  src="https://raw.githubusercontent.com/taqui-786/taqui-786/output/github-contribution-grid-snake.svg" alt="contribution graph" />
-</div>
-<br>
-<!--
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
-  -->
-</P>
+
 
 
 
